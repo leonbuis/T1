@@ -85,4 +85,16 @@
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_3c8a4e6c-4ce1-4208-b974-6dc2e9c26e3a.xml#3c8a4e6c-4ce1-4208-b974-6dc2e9c26e3a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9682f027-c0e9-4b62-acc9-7de9fbddfb6e">
+    <bounds
+        x="81"
+        y="284"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_4f45bd72-04f5-4497-af4b-0020fbb9359b.xml#4f45bd72-04f5-4497-af4b-0020fbb9359b"/>
+  </children>
 </archimate:ArchimateDiagramModel>
